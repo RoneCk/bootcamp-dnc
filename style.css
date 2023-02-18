@@ -273,4 +273,18 @@ footer .linha2 a:hover{
         font-size: 17px;
 
     }
+
+    /* Footer */
+    
+    footer .linha1 {
+        flex-direction: column;
+    }
+    footer .endereco {
+        width: 95%;
+        font-size: 13px;
+        margin-bottom: 50px;
+    }
+    footer .endereco a{
+        margin-bottom: 30px;
+    }
 }
